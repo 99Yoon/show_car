@@ -30,6 +30,10 @@
 <H3> 관련 스냅샷 </H3>
 
 <H4> 메인 페이지 화면 </H4>
-![mainpage](https://github.com/kjy1120/ShowCar/assets/73179008/e36c9c34-0a17-4c65-9096-841fd92b9452)
+
+![mainpage](https://github.com/kjy1120/ShowCar/assets/73179008/83d6e59d-b046-400a-9920-0c8b59fa2d3e)
+
 <H4> 마이 페이지 화면 </H4>
-![mypage](https://github.com/kjy1120/ShowCar/assets/73179008/3474a3b8-d244-40ad-81d8-3303ae18fd0a)
+
+![mypage](https://github.com/kjy1120/ShowCar/assets/73179008/53aef52d-16a7-4a61-90f2-c4b6040d2f4e)
+
