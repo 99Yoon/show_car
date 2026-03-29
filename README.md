@@ -12,23 +12,25 @@ ShowCar는 사용자가 차량 정보를 쉽게 검색하고, 필터링하며, �
 
 ---
 
-## 📌 기능 및 유스케이스
+## 📌 유스케이스
 
 아래는 ShowCar 시스템의 주요 기능과 사용자 역할을 나타낸 유스케이스 다이어그램입니다.
 
-![ShowCar Usecase Diagram](images/usecase_diagram.png)
+![ShowCar Usecase Diagram](https://raw.githubusercontent.com/99Yoon/show_car/main/images/usecase.png)
 
-### 주요 유스케이스 설명
-- **사용자(User)**  
-  - 차량 검색 (이름 검색, 필터 검색)  
-  - 차량 리뷰 작성  
-  - 마이 페이지에서 사용자 정보 수정  
-  - 회원 가입 및 로그인  
+## 📂 데이터베이스 설계 (ERD)
 
-- **관리자(관리자)**  
-  - 차량 관리  
-  - 리뷰 삭제  
-  - 로그인  
+아래는 ShowCar 프로젝트의 데이터베이스 엔티티 및 관계를 나타낸 ERD 다이어그램입니다.
+
+![ShowCar ERD Diagram](https://raw.githubusercontent.com/99Yoon/show_car/main/images/erd.png)
+
+
+- **주요 테이블**  
+  - 차량 정보 (Car)  
+  - 사용자 (User)  
+  - 리뷰 (Review)  
+
+
 ## 👥 팀 구성 및 역할
 
 | 팀원   | 역할                                      |
@@ -51,13 +53,13 @@ ShowCar는 사용자가 차량 정보를 쉽게 검색하고, 필터링하며, �
 
 ## 📸 화면 예시
 
-!![mainpage](https://raw.githubusercontent.com/99Yoon/show_car/main/images/287661942-83d6e59d-b046-400a-9920-0c8b59fa2d3e.png)
+![mainpage](https://raw.githubusercontent.com/99Yoon/show_car/main/images/287661942-83d6e59d-b046-400a-9920-0c8b59fa2d3e.png)
 검색 필터가 있는 메인 페이지
 
-!![mypage](https://raw.githubusercontent.com/99Yoon/show_car/main/images/287661954-53aef52d-16a7-4a61-90f2-c4b6040d2f4e.png)
+!![mypage](https://raw.githubusercontent.com/99Yoon/show_car/main/images/mypage.png)
 나의 댓글을 확인하는 마이 페이지
 
-![리뷰 등록 화면](images/review.png)  
+![리뷰 등록 화면](https://raw.githubusercontent.com/99Yoon/show_car/main/images/review.png)  
 사용자가 리뷰를 등록하는 화면
 
 ---
