@@ -56,7 +56,7 @@ ShowCar는 사용자가 차량 정보를 쉽게 검색하고, 필터링하며, �
 ![mainpage](https://raw.githubusercontent.com/99Yoon/show_car/main/images/287661942-83d6e59d-b046-400a-9920-0c8b59fa2d3e.png)
 검색 필터가 있는 메인 페이지
 
-!![mypage](https://raw.githubusercontent.com/99Yoon/show_car/main/images/mypage.png)
+![mypage](https://raw.githubusercontent.com/99Yoon/show_car/main/images/mypage.png)
 나의 댓글을 확인하는 마이 페이지
 
 ![리뷰 등록 화면](https://raw.githubusercontent.com/99Yoon/show_car/main/images/review.png)  
