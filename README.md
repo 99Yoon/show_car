@@ -34,9 +34,9 @@
 
 <H4> 메인 페이지 화면 </H4>
 
-![mainpage](https://github.com/kjy1120/ShowCar/assets/73179008/83d6e59d-b046-400a-9920-0c8b59fa2d3e)
+![mainpage](https://github.com/99Yoon/show_car/blob/main/images/287661942-83d6e59d-b046-400a-9920-0c8b59fa2d3e.png)
 
 <H4> 마이 페이지 화면 </H4>
 
-![mypage](https://github.com/kjy1120/ShowCar/assets/73179008/53aef52d-16a7-4a61-90f2-c4b6040d2f4e)
+![mypage](https://github.com/99Yoon/show_car/blob/main/images/287661954-53aef52d-16a7-4a61-90f2-c4b6040d2f4e.png)
 
